@@ -5,7 +5,7 @@ anychart.onDocumentReady(function () {
   var data = [
     {
       x: "A",
-      value: 100,
+      value: 42.03,
       name: "Waymond",
       tooltipTitle: "Waymond",
       tooltipDesc:
@@ -16,7 +16,7 @@ anychart.onDocumentReady(function () {
     },
     {
       x: "B",
-      value: 100,
+      value: 30.36,
       name: "Joy",
       tooltipTitle: "Joy",
       tooltipDesc:
@@ -27,7 +27,7 @@ anychart.onDocumentReady(function () {
     },
     {
       x: "C",
-      value: 100,
+      value: 14.08,
       name: "Gong Gong",
       tooltipTitle: "Gong Gong",
       tooltipDesc:
@@ -38,7 +38,7 @@ anychart.onDocumentReady(function () {
     },
     {
       x: "D",
-      value: 200,
+      value: 68.38,
       name: "Evelyn",
       tooltipTitle: "Evelyn",
       tooltipDesc:
