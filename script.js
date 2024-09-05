@@ -60,7 +60,7 @@ anychart.onDocumentReady(function () {
     },
     {
       x: ["D", "B"],
-      value: 40,
+      value: 25,
       name: "",
       tooltipTitle: "Evelyn and Joy",
       tooltipDesc:
@@ -71,7 +71,7 @@ anychart.onDocumentReady(function () {
     },
     {
       x: ["D", "C"],
-      value: 40,
+      value: 10,
       name: "",
       tooltipTitle: "Evelyn and Gong Gong",
       tooltipDesc:
