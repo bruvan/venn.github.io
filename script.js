@@ -8,7 +8,7 @@ anychart.onDocumentReady(function () {
       value: 42.03,
       name: "Waymond",
       tooltipTitle: "Waymond",
-      titleFormat:"<img width='20' src='http://cdn.anychart.com/images/anychart-logo-medium.png'>",
+      tooltipTitleFormat:"<img width='20' src='http://cdn.anychart.com/images/anychart-logo-medium.png'>",
       tooltipDesc:
         "Waymond is Evelyn’s kind and optimistic husband. He believes\n in kindness and peaceful solutions. Though he seems naive, \nhis gentle approach hides deep strength. He grounds Evelyn, \nreminding her of love and family, always striving to keep \nthem together.",
       normal: { fill: "#FFEDC5 0.7" },
