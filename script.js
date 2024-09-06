@@ -90,7 +90,6 @@ anychart.onDocumentReady(function () {
       normal: { fill: "#AFCCA7 0.7" },
       hovered: { fill: "#8ECD7E 1" },
       selected: { fill: "#8ECD7E 1" }
-      normal: { fill: "#AAD7C1 0.8" }
     },
     {
       x: ["B", "C", "D"],
