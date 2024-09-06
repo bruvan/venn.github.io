@@ -85,6 +85,7 @@ anychart.onDocumentReady(function () {
       value: 2.5,
       name: "",
     },
+    
     {
       x: ["B", "C", "D"],
       value: 1.7,
