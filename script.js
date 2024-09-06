@@ -84,7 +84,7 @@ anychart.onDocumentReady(function () {
       x: ["B", "C"],
       value: 2.5,
       name: "",
-      disablePointerEvents(enabled),
+      tooltip.enabled(false),
     },
     
     {
