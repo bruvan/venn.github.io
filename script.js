@@ -93,7 +93,7 @@ anychart.onDocumentReady(function () {
     },
     {
       x: ["B", "C", "D"],
-      value: 2.5,
+      value: 1.7,
       name: "",
       tooltipTitle: "Evelyn, Gong Gong and Joy",
       tooltipDesc:
