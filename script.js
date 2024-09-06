@@ -9,7 +9,7 @@ anychart.onDocumentReady(function () {
       name: "Waymond",
       tooltipTitle: "Waymond",
       tooltipDesc:
-        "<img src="Waymond maxresdefault.jpg"</img>\nWaymond is Evelyn’s kind and optimistic husband. He believes\n in kindness and peaceful solutions. Though he seems naive, \nhis gentle approach hides deep strength. He grounds Evelyn, \nreminding her of love and family, always striving to keep \nthem together.",
+        "Waymond is Evelyn’s kind and optimistic husband. He believes\n in kindness and peaceful solutions. Though he seems naive, \nhis gentle approach hides deep strength. He grounds Evelyn, \nreminding her of love and family, always striving to keep \nthem together.",
       normal: { fill: "#FFEDC5 0.7" },
       hovered: { fill: "#FFDA8A 1" },
       selected: { fill: "#FFDA8A 1" }
