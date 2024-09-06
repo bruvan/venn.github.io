@@ -60,7 +60,7 @@ anychart.onDocumentReady(function () {
     },
     {
       x: ["D", "B"],
-      value: 25,
+      value: 23.3,
       name: "",
       tooltipTitle: "Evelyn and Joy",
       tooltipDesc:
@@ -71,7 +71,7 @@ anychart.onDocumentReady(function () {
     },
     {
       x: ["D", "C"],
-      value: 10,
+      value: 7.4,
       name: "",
       tooltipTitle: "Evelyn and Gong Gong",
       tooltipDesc:
@@ -82,13 +82,13 @@ anychart.onDocumentReady(function () {
     },
     {
       x: ["B", "C"],
-      value: 40,
+      value: 2.5,
       name: "",
       normal: { fill: "#AAD7C1 0.8" }
     },
     {
       x: ["B", "C", "D"],
-      value: 10,
+      value: 2.5,
       name: "",
       tooltipTitle: "Evelyn, Gong Gong and Joy",
       tooltipDesc:
