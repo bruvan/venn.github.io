@@ -84,6 +84,7 @@ anychart.onDocumentReady(function () {
       x: ["B", "C"],
       value: 2.5,
       name: "",
+      tooltipSettings.hide(true),
     },
     
     {
