@@ -83,13 +83,7 @@ anychart.onDocumentReady(function () {
     {
       x: ["B", "C"],
       value: 2.5,
-      name: "Gong Gong",
-      tooltipTitle: "Gong Gong",
-      tooltipDesc:
-        "Gong Gong is Evelyn’s father, a traditional and stern figure.\nHe holds strong beliefs about family and duty.He has high \nexpectations and is often critical, which puts pressure on Evelyn.\nDespite his tough exterior, Gong Gong's actions are driven by \na deep sense of responsibility and love for his family.However, \nhe struggles to express it in a gentle way",
-      normal: { fill: "#AFCCA7 0.7" },
-      hovered: { fill: "#8ECD7E 1" },
-      selected: { fill: "#8ECD7E 1" }
+      name: "",
     },
     {
       x: ["B", "C", "D"],
